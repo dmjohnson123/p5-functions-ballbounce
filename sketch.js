@@ -11,9 +11,8 @@ function setup(){
 function draw(){
     background(0);
     display();
-    //move();
-    //bounce();
-
+    move();
+    bounce();
 }
 
 function display(){
